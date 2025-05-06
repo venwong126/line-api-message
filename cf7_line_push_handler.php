@@ -1,9 +1,10 @@
+<!-- VEN WONG -->
+
 <?php
 // Contact Form 7
 $name = $_POST['your-name'] ?? 'Messeage';
 
 
-$channelToken = 'YOUR TOKEN ID ';
 $toUserId = 'USER ID';
 
 $sMessage = "Your Messeage";
