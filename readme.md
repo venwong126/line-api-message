@@ -1,7 +1,3 @@
-Author
-Ven Wong
-
-````markdown
 # LINE API Message - PHP Integration
 
 This repository provides a PHP project to send messages to LINE and handle webhooks. It’s ideal for LINE Bot development, Contact Form 7 integration, and more.
@@ -31,4 +27,3 @@ Add these into your PHP code, for example:
 ```php
 $channelToken = 'YOUR_CHANNEL_ACCESS_TOKEN';
 ```
-````
